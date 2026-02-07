@@ -33,7 +33,7 @@
     "raw-loader": "^4.0.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "webpack": "^5.99.9"
+    "webpack": "^5.104.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.27.5",
